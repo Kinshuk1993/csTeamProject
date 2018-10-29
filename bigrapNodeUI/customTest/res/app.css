@@ -1,0 +1,31 @@
+.dragablenode {
+    -fx-background-radius: 10;
+}
+
+.icon-blue {
+    -fx-background-color: blue;
+}
+
+.icon-red {
+    -fx-background-color: red;
+}
+
+.icon-green {
+    -fx-background-color: green;
+}
+
+.icon-yellow {
+    -fx-background-color: yellow;
+}
+
+.icon-black {
+    -fx-background-color: black;
+}
+
+.icon-grey {
+    -fx-background-color: grey;
+}
+
+.icon-purple {
+    -fx-background-color: purple;
+}
